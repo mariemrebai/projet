@@ -1,0 +1,116 @@
+.box1{
+    width: 24%;
+    height: 1100px;
+    background-color: rgb(223,196 , 196);
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(238, 238, 238);
+    
+     
+}
+.maphoto{
+    width: 70%;
+    height: 40%;
+    margin-top: 40px;
+    margin-left: 45px;
+
+}
+.h2LEFT{
+    color: rgb(59, 59, 58);
+    margin-left: 40px;
+    border-bottom: 5px solid rgb(73, 73, 71) ;
+    padding-bottom: 4px;
+    width: 220px;
+    
+
+}
+.paragraphe{
+    color: rgb(45, 45, 45);
+    margin: 0;
+    margin-left: 10px;
+    font-size: 20px;
+
+}
+.box3{
+    position: absolute;
+    left: 24%;
+    height: 100%;
+    width:100%;
+    top: 0;
+    margin-top: 8px;
+    background-color: rgb(238, 238, 238);
+
+}
+.icons{
+    height: 30px;
+    width: 30px;
+}
+.nom{
+    margin-left: 30px;
+    margin-top: 60px;
+    font-size: 80px;
+    color: rgb(54, 54, 54);
+    
+    margin-right: 150px;
+}
+.prenom{
+    margin-left: 5px;
+    font-size: 80px;
+    color: rgb(126, 126, 126);
+}
+.etudiant{
+    margin-left: 40px;
+    font-size: 30px;
+    color: #000000ba;
+    
+}
+.paragraphe2{
+    color: rgb(45, 45, 45);
+    margin-left: 30px;
+    font-size: 20px;
+    text-align: center;
+    width : 70%
+
+}
+.description{
+    font-size: 15px;
+}
+
+
+.nav{
+    background-color:rgb(195,135 ,135);
+    height: 80px;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.hi{
+    height: 78%;
+    width: 69px;
+    margin-left: 60px;
+    text-align: center;
+}
+.ieee{
+    height: 40px;
+    width: 40px;
+}
+.hi a{
+    width: 100%;
+    color: #161616;
+    font-size: 12px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+    border-color: rgb(85, 78, 78);
+    border-width: 2px;
+    border-radius: 20px;
+    border-style: solid;
+    display: inline-block;
+
+}
